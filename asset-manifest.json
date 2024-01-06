@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sumit-Mali/react-quiz-app/static/css/main.80c2e8ae.css",
+    "main.js": "/Sumit-Mali/react-quiz-app/static/js/main.fa0c02e3.js",
+    "index.html": "/Sumit-Mali/react-quiz-app/index.html",
+    "main.80c2e8ae.css.map": "/Sumit-Mali/react-quiz-app/static/css/main.80c2e8ae.css.map",
+    "main.fa0c02e3.js.map": "/Sumit-Mali/react-quiz-app/static/js/main.fa0c02e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c2e8ae.css",
+    "static/js/main.fa0c02e3.js"
+  ]
+}
