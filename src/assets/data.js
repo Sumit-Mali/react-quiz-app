@@ -1,0 +1,42 @@
+export const data = [
+	{
+		question: 'Which device is required for the Internet connection?',
+		option1: 'Modem',
+		option2: 'Router',
+		option3: 'LAN Cable',
+		option4: 'Pen Drive',
+		ans: 1,
+	},
+	{
+		question: 'What is internet?',
+		option1: 'A network of interconnected local area networks',
+		option2: 'A collection of unrelated computers',
+		option3: 'Interconnection of wide area networks',
+		option4: 'A single network',
+		ans: 3,
+	},
+	{
+		question: 'First page of website is termed as?',
+		option1: 'Index page',
+		option2: 'Homepage',
+		option3: 'Landing page',
+		option4: 'Media page',
+		ans: 2,
+	},
+	{
+		question: 'What is the size of int data type in java?',
+		option1: 2,
+		option2: 0,
+		option3: 1,
+		option4: 4,
+		ans: 4,
+	},
+	{
+		question: 'Who is the founder of React?',
+		option1: 'Jordan Walke',
+		option2: 'James Gosling',
+		option3: 'Tim Berners-Lee',
+		option4: 'Bjarne Stroustrup',
+		ans: 1,
+	},
+];
